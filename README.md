@@ -1,4 +1,8 @@
-# Customer behaviour analysis using clustering.
+# ============================
+# Generate README.md (fully coded)
+# ============================
+cat << 'EOF' > README.md
+# Customer Segmentation using Clustering
 This repository contains a project for **customer segmentation** using machine learning clustering algorithms. The project includes Python code in a Jupyter Notebook to preprocess customer data, apply clustering methods, and evaluate their effectiveness.
 
 ## Features
@@ -18,10 +22,12 @@ This repository contains a project for **customer segmentation** using machine l
 - Basic knowledge of clustering and unsupervised learning.
 
 ### Setup Instructions
-1. Clone this repository to your local system:
 
+1. Clone this repository to your local system:
+\`\`\`Bash
 git clone https://github.com/yourusername/customer-segmentation.git
-# Customers-behaviour-analysis
+\`\`\`
+
 2. Navigate to the project directory:
 \`\`\`Bash
 cd customer-segmentation
